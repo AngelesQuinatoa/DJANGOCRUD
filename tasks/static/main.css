@@ -1,0 +1,13 @@
+body{
+    background: rgb(29,126,137);
+    background: radial-gradient(circle, rgba(29,126,137,1) 0%, rgba(22,35,49,1) 100%);
+    color: white;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+background-color: rgb(22, 22, 77);
+color: white;
+}
